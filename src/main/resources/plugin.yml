@@ -1,0 +1,7 @@
+name: MitchGenerators
+version: '${project.version}'
+main: me.reklessmitch.mitchgenerators.MitchGenerators
+api-version: '1.19'
+author: ReklessMitch
+description: A plugin that allows you to create custom generators
+depend: [ MassiveCore ]
