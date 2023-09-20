@@ -1,0 +1,17 @@
+me\reklessmitch\mitchgenerators\configs\GeneratorConf.class
+me\reklessmitch\mitchgenerators\placeholders\GeneratorPlaceholders.class
+me\reklessmitch\mitchgenerators\cmds\CmdGenGive.class
+me\reklessmitch\mitchgenerators\cmds\CmdGen.class
+me\reklessmitch\mitchgenerators\cmds\CmdGenGUI.class
+me\reklessmitch\mitchgenerators\configs\GeneratorPlayerColl.class
+me\reklessmitch\mitchgenerators\cmds\GeneratorCommands.class
+me\reklessmitch\mitchgenerators\guis\GeneratorGUI.class
+me\reklessmitch\mitchgenerators\configs\GeneratorConfColl.class
+me\reklessmitch\mitchgenerators\utils\TypeGeneratorTier.class
+me\reklessmitch\mitchgenerators\object\GeneratorTier.class
+me\reklessmitch\mitchgenerators\object\Generator.class
+me\reklessmitch\mitchgenerators\object\GeneratorType.class
+me\reklessmitch\mitchgenerators\Perm.class
+me\reklessmitch\mitchgenerators\MitchGenerators.class
+me\reklessmitch\mitchgenerators\utils\TypeGeneratorType.class
+me\reklessmitch\mitchgenerators\configs\GeneratorPlayer.class
